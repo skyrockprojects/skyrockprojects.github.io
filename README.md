@@ -11,11 +11,13 @@ Here's a sneak-peak at some of our projects:
 
 ![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/otto_demo.gif)
 
+![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/otto_Skyrock.jpg)
+
 
 
 ### SKYROCK + / SKYROCK ++
-* [3D Modeling, Printing & Robotics]()
-* [Data Visualization, Analysis & Creativity with Python]()
-* [Music Creation, Software & Programming]()
-* [Physical Computing & Human-Computer Interaction]()
-* [Simulations & Interactive Data with JavaScript]()
+*
+*
+*
+*
+* 
