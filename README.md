@@ -12,12 +12,3 @@ Here's a sneak-peak at some of our projects:
 ![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/ottodemo.gif)
 
 ![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/ottoskyrock.jpg)
-
-
-
-### SKYROCK + / SKYROCK ++
-*
-*
-*
-*
-*
