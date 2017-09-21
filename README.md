@@ -9,9 +9,9 @@ Here's a sneak-peak at some of our projects:
 
 * **[Otto-matic](https://github.com/skyrockprojects/otto-matic)**: We create Otto - a robot that can dance better than an average person. We learn how dance moves are encoded in lines of programming and how to assemble all the components together - Arduino, motors and software.
 
-![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/otto_demo.gif)
+![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/ottodemo.gif)
 
-![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/otto_Skyrock.jpg)
+![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/ottoskyrock.jpg)
 
 
 
@@ -20,4 +20,4 @@ Here's a sneak-peak at some of our projects:
 *
 *
 *
-* 
+*
