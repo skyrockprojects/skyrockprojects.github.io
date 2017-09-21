@@ -1,8 +1,6 @@
 ## Welcome to Skyrock Projects Codehouse
 
-### AN ACADEMY FOR CREATIVE TECHNOLOGISTS EXPLORING THE INTERSECTION OF ART, SCIENCE AND TECHNOLOGY
-
-![](http://skyrockprojects.com/wp-content/uploads/2017/06/Brain-2-e1499069018903.jpg)
+Here's a sneak-peak at some of our projects:
 
 ### SKYROCK MINI
 * **[Developing Apps with MIT AppInventor2](https://github.com/skyrockprojects/AppInventor2)**: In this project, students read data using Arduino + sensors, store it on cloud and then use APIs to fetch and display the data in an App made with MIT AppInventor2.
