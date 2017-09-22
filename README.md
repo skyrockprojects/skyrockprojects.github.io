@@ -9,17 +9,17 @@ Here's a sneak-peak at some of our projects.
 
 * **[Safely Please](https://github.com/skyrockprojects/safely-please)**: We build a car which can detect obstacles and find its way around them. Later on, we add more sensors to it to make it more and more _autonomous_.
 
+![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/safely_please.gif?raw=true)
+
 * **[Otto-matic](https://github.com/skyrockprojects/otto-matic)**: We create Otto - a robot that can dance better than an average person. We learn how dance moves are encoded in lines of programming and how to assemble all the components together - Arduino, motors and software.
 
 ![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/ottodemo.gif?raw=true)
-
-![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/ottoskyrock.jpg?raw=true)
 
 ---
 
 ### SKYROCK+/++
 
-* **[Exploratory Data Analysis of Earthquakes in Taiwan](https://github.com/skyrockprojects/python-quake-da)**: We learn how to handle datasets and extract insights from them using Python based tools.
+* **[Exploratory Data Analysis of Earthquakes in Taiwan](https://github.com/skyrockprojects/python-quake-da)**: We learn how to handle datasets and extract insights from them using Python based tools. We start out with basics of programming in Python and then proceed to using standard Python modules like *pandas* and *matplotlib*.
 
 ![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/violinplot_quakes.png?raw=true)
 
@@ -27,4 +27,6 @@ Here's a sneak-peak at some of our projects.
 
 ![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/heterophily_network_1.png?raw=true)
 
-*
+* **[Wolves in Yellowstone](https://github.com/skyrockprojects/wolves-in-yellowstone)**: A simulation of trophic cascade brought about by introduction of wolves in Yellowstone National Park in early 1990s. This project aims to teach different methods of data Visualization and animation using d3.js.
+
+![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/wolves_yellowstone.gif?raw=true)
