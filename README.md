@@ -2,7 +2,7 @@
 
 Here's a sneak-peak at some of our projects.
 
-(**Note**: You may not be access some of the github repos linked to below unless you have been added as a member.)
+(**Note**: You may not be able to access some of the github repos linked to below unless you have been added as a member. You can become a member of a repo once you have signed up for that particular course.)
 
 ### SKYROCK MINI
 * **[Developing Apps with MIT AppInventor2](https://github.com/skyrockprojects/AppInventor2)**: In this project, students read data using Arduino + sensors, store it on cloud and then use APIs to fetch and display the data in an App made with MIT AppInventor2.
@@ -26,3 +26,5 @@ Here's a sneak-peak at some of our projects.
 * **[Heterophily of Taipei's Neighborhoods](https://github.com/skyrockprojects/heterophily-in-taipei-neighborhoods)**: In this project, we take a step back and learn how to use web scraping to collect our own data. We then proceed to analyze it building on techniques we learnt in the last project.
 
 ![](https://github.com/skyrockprojects/skyrockprojects.github.io/blob/master/images/heterophily_network_1.png?raw=true)
+
+*
